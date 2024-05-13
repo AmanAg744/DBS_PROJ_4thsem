@@ -1,5 +1,3 @@
-# DBS_PROJ_4thsem
-Certainly! Below is a sample README.md file formatted for a database project aimed at managing art galleries, based on the details provided in the GitHub repository `https://github.com/AmanAg744/DBS_PROJ_4thsem`.
 
 # Art Gallery Management System
 
